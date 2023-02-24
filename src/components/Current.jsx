@@ -117,10 +117,6 @@ const Current = () => {
                       )}
                     </div>
 
-                    <img
-                      src={`http://openweathermap.org/img/wn/${localWeather.weather[0].icon}@2x.png`}
-                      alt="icon"
-                    />
                   </div>
                 </div>
               </Col>
