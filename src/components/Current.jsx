@@ -78,7 +78,7 @@ const Current = () => {
     <>
       <Row className="d-flex justify-content-start ps-5 w-100 pt-5 ">
         <div className="d-flex justify-content-center">
-          <Col className="d-flex flex-column ms-5" xs={4}>
+          <Col className="d-flex flex-column  ms-5" xs={4}>
             <h2 className="text-white fw-bold fs-1 text-start mb-3 mt-5 ">
               Today
             </h2>
