@@ -1,6 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap");
-
+body{
+  object-fit: contain;
+}
 .App {
+  padding-top: 9rem;
+  padding-bottom:30em;
   text-align: center;
   background-color: #07c8f84d;
   color: red;
@@ -35,7 +39,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: orangered;
 }
 
 @keyframes App-logo-spin {
@@ -73,5 +77,5 @@ html {
   background-color: #ffffff4d;
 }
 .textCardExtended {
-  color: rgb(32, 32, 164);
+  color: yellow;
 }
